@@ -1,11 +1,9 @@
-import { BoltBadge } from './BoltBadge';
 import { MistypeManiaGame } from './MistypeManiaGame';
 
 export const App = () => {
   return (
-    <>
+    <div>
       <MistypeManiaGame />
-      <BoltBadge mode="white" />
-    </>
+    </div>
   );
 };
