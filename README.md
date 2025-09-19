@@ -1,4 +1,4 @@
-# 🎮 MistypeMania - Word Misspelling Challenge
+# 🎮 MistypeMania - Word Misspelling Challenge!
 
 A unique and challenging word game where players must intentionally misspell words using all the correct letters! Test your creativity and quick thinking with randomized virtual keyboards and time pressure.
 
